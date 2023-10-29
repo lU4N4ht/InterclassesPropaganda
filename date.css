@@ -1,0 +1,30 @@
+:root {
+    --tittle_font: 'Kanit', sans-serif;
+    --body_font: 'Montserrat', sans-serif;
+    --text_font: 'Oswald', sans-serif;
+    --green: #1A9335;
+    --white: #F7F7F7;
+    --gray: #E3E3E3;
+    --light-green: #4fba66c8;
+}
+body{
+    background-color: #EFEFEF;
+    height: 90vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--body_font);
+}
+div h1{
+    font-size: 1em;
+    display: grid;
+    justify-content: center;
+}
+div h2{
+    font-weight: 400;
+    text-align: justify;
+    width: 20em;
+    font-size: 0.9em;
+    display: grid;
+    justify-content: center;
+}
