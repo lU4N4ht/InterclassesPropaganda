@@ -39,6 +39,7 @@ main {
 }
 .welcome-message{
     display: grid;
+    justify-content: center;
     gap: 1.5em;
 }
 .title-text h1{
